@@ -1,0 +1,2 @@
+# bricks
+data bricks ai
